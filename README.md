@@ -11,7 +11,7 @@ Recording voiceovers for instructional and demo videos can take hours - and some
 
 ## 📚 Tutorial
 
-The written tutorial for this sample is available on my [website](https://www.vogueandcode.com/ai-perspectives-posts/voiceover-audio-clips)!
+The written tutorial for this sample will be available soon!
 
 ## 📦 Resources
 
